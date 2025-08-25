@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<epos-print xmlns="http://www.epson-pos.com/schemas/2011/03/epos-print">
+  <text align="center" lang="en">Test print from Gist! Trial 1</text>
+  <cut/>
+</epos-print>
