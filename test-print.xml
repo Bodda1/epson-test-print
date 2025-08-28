@@ -2,7 +2,7 @@
 <s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/">
   <s:Body>
     <epos-print xmlns="http://www.epson-pos.com/schemas/2011/03/epos-print">
-      <text>Hello World&#10;</text>
+      <text>Hello World Live</text>
       <cut type="feed"/>
     </epos-print>
   </s:Body>
