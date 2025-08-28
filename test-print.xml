@@ -1,5 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<epos-print xmlns="http://www.epson-pos.com/schemas/2011/03/epos-print">
-  <text align="center" lang="en">Hello from GitHub Pages #3</text>
-  <cut/>
-</epos-print>
+<?xml version="1.0" encoding="utf-8"?>
+<s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/">
+  <s:Body>
+    <epos-print xmlns="http://www.epson-pos.com/schemas/2011/03/epos-print">
+      <text>Hello World&#10;</text>
+      <cut type="feed"/>
+    </epos-print>
+  </s:Body>
+</s:Envelope>
