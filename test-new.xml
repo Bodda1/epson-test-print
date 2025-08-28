@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/">
-  <s:Body>
-    <epos-print xmlns="http://www.epson-pos.com/schemas/2011/03/epos-print">
-      <text>Hello World New Please Print&#10;</text>
-      <cut type="feed"/>
-    </epos-print>
-  </s:Body>
-</s:Envelope>
+<epos-print xmlns="http://www.epson-pos.com/schemas/2011/03/epos-print">
+  <text>Hello World Live</text>
+  <cut type="feed"/>
+</epos-print>
